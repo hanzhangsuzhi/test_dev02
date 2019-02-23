@@ -9,5 +9,5 @@
 * git add .
 * git add hello.py
 * git commit -m "description"
-* git push
+* git push origin master
 
